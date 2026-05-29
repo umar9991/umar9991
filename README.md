@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Khalid 👋
+# Hi, I'm Umar Ahmad 👋
 
 ## 🚀 Frontend Engineer | React & TypeScript Specialist
 
