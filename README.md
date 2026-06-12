@@ -8,7 +8,6 @@ Currently working at **Cloudtek** on enterprise-scale Micro Frontend architectur
 - Build production-grade **MFE applications** with Webpack Module Federation
 - Implement **E2E testing frameworks** with Playwright & BDD
 - Wire **CI/CD pipelines** that block deployments on test failures
-- Fix complex **UAT bugs** in React + Redux applications
 
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
