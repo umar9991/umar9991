@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umar%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20SaaS%20Builder%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umar%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Flutter%20%C2%B7%20Node.js&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Enterprise+Micro+Frontend+Engineer+%40+Cloudtek;Building+SaaS+Products+%E2%80%94+StudyBotPK+%7C+ReplyMate;React+%2B+TypeScript+%2B+Next.js+%2B+Node.js;AI+Automation+%7C+RAG+Pipelines+%7C+FastAPI;Flutter+%7C+CI%2FCD+%7C+Playwright+E2E;Always+shipping.+Always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Web+%26+Mobile+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Enterprise+Micro+Frontend+%40+Cloudtek;AI+Agents+%7C+RAG+Pipelines+%7C+FastAPI;Playwright+E2E+%7C+CI%2FCD+%7C+GitHub+Actions;SaaS+Builder+%E2%80%94+StudyBotPK+%7C+ReplyMate+%7C+bid-engine;Shipping+real+products.+Not+just+tutorials." alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=umar9991&color=7c3aed&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/umar9991?label=Follow&style=flat-square&color=7c3aed)](https://github.com/umar9991)
 
@@ -19,14 +16,20 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const umar: Developer = {
-  role:        "Frontend Engineer @ Cloudtek",
-  location:    "Islamabad, Pakistan 🇵🇰",
-  education:   "BS Software Engineering — Iqra University (5th Semester)",
-  focus:       ["Micro Frontend Architecture", "SaaS Products", "AI Automation"],
-  currentlyBuilding: ["StudyBotPK", "ReplyMate", "bid-engine (AI Proposal Engine)"],
-  askMeAbout:  ["React", "TypeScript", "MFE", "Playwright", "Node.js", "AI Agents"],
-  funFact:     "I ship production code by day and SaaS products by night 🚀"
+const umar: Engineer = {
+  title:     "Full Stack & Mobile Engineer",
+  company:   "Cloudtek — Enterprise MFE for Lowe's 🏗️",
+  education: "BS Software Engineering — Iqra University, Islamabad 🇵🇰",
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS", "Webpack MFE"],
+    backend:   ["Node.js", "Express", "Python", "FastAPI"],
+    mobile:    ["Flutter", "Dart", "Firebase", "Supabase"],
+    database:  ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
+    ai:        ["Groq", "Gemini", "RAG Pipelines", "LangChain"],
+    devops:    ["GitHub Actions", "CI/CD", "Playwright E2E", "Vercel"],
+  },
+  building:  ["StudyBotPK", "ReplyMate", "bid-engine"],
+  available: "Open to freelance projects 👋",
 };
 ```
 
@@ -34,22 +37,26 @@ const umar: Developer = {
 
 ## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Scrolling -->
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack_MFE-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 **Database & Cloud**
 
@@ -59,9 +66,8 @@ const umar: Developer = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Mobile & Testing**
+**Testing & DevOps**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -73,30 +79,33 @@ const umar: Developer = {
   <tr>
     <td width="50%">
       <h3>🤖 StudyBotPK</h3>
-      <p>AI-powered study assistant SaaS — Next.js 14, Groq AI, Supabase Auth, full component design system. Live on Vercel.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> 
+      <p>AI-powered study assistant SaaS. Full Next.js 14 app — Groq AI integration, 17-screen design system, Supabase Auth. Live on Vercel.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
       <img src="https://img.shields.io/badge/Groq_AI-FF6B35?style=flat-square"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
     </td>
     <td width="50%">
       <h3>📋 bid-engine</h3>
-      <p>AI-Powered Bid & Proposal Response Engine — RAG pipeline, Groq/Gemini AI, FastAPI backend. Built for CUST Hackathon 2026.</p>
+      <p>AI Bid & Proposal Response Engine. Semantic RAG pipeline, Groq/Gemini AI, FastAPI Python backend. Built & deployed for CUST Hackathon 2026.</p>
       <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
       <img src="https://img.shields.io/badge/RAG_Pipeline-7c3aed?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google"/>
       <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🔧 FIXO</h3>
-      <p>Local services marketplace — Node.js/Express, PostgreSQL, Redis, Flutter. Full-stack with real-time booking, geospatial search & Socket.IO.</p>
+      <p>Full stack local services marketplace. Node.js/Express + PostgreSQL + Redis backend with real-time Socket.IO, geospatial search & Flutter mobile app.</p>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter"/>
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
     </td>
     <td width="50%">
       <h3>💬 ReplyMate</h3>
-      <p>AI-powered e-commerce customer support & sales agent platform. Full architecture, design system & technical documentation complete.</p>
+      <p>AI-powered e-commerce customer support & sales agent. Full SaaS architecture, design system & technical documentation. Coming soon.</p>
       <img src="https://img.shields.io/badge/AI_Agent-FF6B35?style=flat-square"/>
       <img src="https://img.shields.io/badge/SaaS-7c3aed?style=flat-square"/>
       <img src="https://img.shields.io/badge/E--Commerce-000?style=flat-square"/>
@@ -108,10 +117,11 @@ const umar: Developer = {
 
 ## 💼 Professional Experience
 
-**Frontend Engineer @ Cloudtek** *(Current)*
-- 🏗️ Building enterprise-scale **Micro Frontend** applications using **Webpack Module Federation**
-- 🎭 Built complete **Playwright E2E testing framework** with Shadow DOM support & BDD (playwright-bdd)
-- ⚙️ CI/CD pipelines that **block deployments on test failures** via GitHub Actions
+**Full Stack Engineer @ Cloudtek** *(Current)*
+- 🏗️ Building enterprise **Micro Frontend** apps with Webpack Module Federation for **Lowe's** (US retail giant)
+- 🎭 Architected complete **Playwright E2E framework** — Shadow DOM support, BDD with playwright-bdd
+- ⚙️ CI/CD pipelines blocking deployments on test failures via **GitHub Actions**
+- ⚡ Delivered production React features across multiple MFE repos with TypeScript
 
 ---
 
@@ -149,7 +159,7 @@ const umar: Developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-ahmad-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studybotpk.vercel.app)
+[![StudyBotPK](https://img.shields.io/badge/StudyBotPK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studybotpk.vercel.app)
 
 </div>
 
