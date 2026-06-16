@@ -109,10 +109,9 @@ const umar: Developer = {
 ## 💼 Professional Experience
 
 **Frontend Engineer @ Cloudtek** *(Current)*
-- 🏗️ Building enterprise-scale **Micro Frontend** applications using **Webpack Module Federation** for Lowe's
+- 🏗️ Building enterprise-scale **Micro Frontend** applications using **Webpack Module Federation**
 - 🎭 Built complete **Playwright E2E testing framework** with Shadow DOM support & BDD (playwright-bdd)
 - ⚙️ CI/CD pipelines that **block deployments on test failures** via GitHub Actions
-- 🐛 Resolved complex UAT bugs in production React applications serving enterprise clients
 
 ---
 
