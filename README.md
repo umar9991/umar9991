@@ -18,7 +18,7 @@
 ```typescript
 const umar: Engineer = {
   title:     "Full Stack & Mobile Engineer",
-  company:   "Cloudtek — Enterprise MFE for Lowe's 🏗️",
+  company:   "Cloudtek — Enterprise MFE",
   education: "BS Software Engineering — Iqra University, Islamabad 🇵🇰",
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS", "Webpack MFE"],
