@@ -118,7 +118,7 @@ const umar: Engineer = {
 ## 💼 Professional Experience
 
 **Full Stack Engineer @ Cloudtek** *(Current)*
-- 🏗️ Building enterprise **Micro Frontend** apps with Webpack Module Federation for **Lowe's** (US retail giant)
+- 🏗️ Building enterprise **Micro Frontend** apps with Webpack Module Federation (US retail giant)
 - 🎭 Architected complete **Playwright E2E framework** — Shadow DOM support, BDD with playwright-bdd
 - ⚙️ CI/CD pipelines blocking deployments on test failures via **GitHub Actions**
 - ⚡ Delivered production React features across multiple MFE repos with TypeScript
